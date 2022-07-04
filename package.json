@@ -1,0 +1,14 @@
+{
+  "name": "varnish-app",
+  "version": "1.0.0",
+  "description": "Varnish App",
+  "scripts": {
+    "server": "live-server --port=8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "live-server": "^1.2.2"
+  }
+}
